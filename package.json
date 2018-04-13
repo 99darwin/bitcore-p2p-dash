@@ -1,5 +1,5 @@
 {
-  "name": "bitcore-p2p-dash",
+  "name": "bitcore-p2p-divi",
   "version": "1.1.6",
   "description": "Interface to the dash P2P network for bitcore-dash",
   "author": "BitPay <dev@bitpay.com>",
@@ -49,10 +49,10 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/dashevo/bitcore-p2p-dash.git"
+    "url": "https://github.com/divicoin/bitcore-p2p-divi.git"
   },
   "dependencies": {
-    "bitcore-lib-dash": "^0.15.2",
+    "divicore-lib": "^0.15.35",
     "bloom-filter": "^0.2.0",
     "node-buffers": "^0.1.1",
     "socks5-client": "^0.3.6"
